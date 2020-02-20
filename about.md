@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This blog is run by a small group of faculty members at Indian Institute of Technology Madras, who are engaged in outreach activities outside their regular professional work of research and teaching. 
 
-### More Information
+Therefore this blog will cover their outreach activities often conducted in collaboration with corporates, NGOs, schools etc.
 
-A place to include any other types of information that you'd like to include about yourself.
+The topics covered in the blog range from: career guidance, motivation, leadership, team building, school education, success stories etc. 
 
-### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+
+[riseleadserve@gmail.com](mailto:riseleadserve@gmail.com)
