@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Career guidance in UP and West Bengal Schools
-tags: [career guidance, Uttar Pradesh, West Bengal, NSFDC, mcmf]
-category: career guidance
+title: Career_guidance in UP and West Bengal Schools
+tags: [career_guidance, UttarPradesh, WestBengal, NSFDC, mcmf]
+category: career_guidance
 
 
 ---
 
-## IIT Madras offering Career Guidance to school students in UP and West Bengal with the CSR Support from NSFDC.
+### IIT Madras offering Career Guidance to school students in UP and West Bengal with the CSR Support from NSFDC.
 
 As part of CSR initiative from NSFDC, IIT Madras is offering free career guidance to students in the 9th and 10th class. National Scheduled Castes Finance and Development Corporation (NSFDC) is supporting the career guidance initiative from IIT Madras as part of its CSR initiatives. Career Guidance Program was conducted in few schools in West Bengal and Uttar Pradesh. My Choice My Future (MCMF), an online personality assessment solution for career guidance in the Indian context. MCMF empowers school and college students, and professionals discover their true personalities and map their modal personality traits to suitable career clusters. MCMF is a simple 72-question survey that provides detailed insights into students’ dominant Personalities and Career Interests. It helps the students and their teachers gain an understanding of the personality strengths, and help them to identify the areas of improvement. 
 

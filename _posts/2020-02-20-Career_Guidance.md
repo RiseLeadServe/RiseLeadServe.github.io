@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Career Guidance to Government Schools for NSFDC
-tags: [career guidance, mcmf, Bodhbridge]
-category: [career guidance]
+tags: [career_guidance, mcmf, Bodhbridge]
+category: career_guidance
 ---
 
 
 
-## IIT Madras offering Career Guidance to Government school students with the CSR Support from NSFDC.
+### IIT Madras offering Career Guidance to Government school students with the CSR Support from NSFDC.
 
 Most students in India enter their undergraduate studies without really have chosen their courses themselves. As a result, at the end of graduation, they end up not knowing what to do and their employability is becoming a key challenge.  Instead of pursuing a career of their choice and interest, a student’s aspiration, very often, is fuelled by the pressure to meet parental and societal expectations. Career guidance, therefore, it is absolutely necessary in India because students need to be mentally prepared to face the world after graduation. We want to work together to create youngsters who have a positive outlook towards life, while also being responsible and accountable for themselves. As part of this career guidance initiative, we want to request parents to work with the schools closely to understand the student’s interests and capabilities.
 
@@ -54,12 +54,12 @@ The following parameters used as part of the MCMF Career Guidance Framework:
 4.	Extra-curricular and Co-curricular activities
 5.	Achievement or Hidden talents (typically ignored in the academic environment)
 
-## Benefits of MCMF Career Guidance
+### Benefits of MCMF Career Guidance
 •	The test taker, student or professional, obtains tangible insights into their dominant career-related personality traits, to make informed and purposive career-related decisions.
 •	Parents will be able to understand salient aspects of their child’s evolving personality in relation to career interests, and support their child’s personal development and career-related choices.
 •	School and career counsellors will obtain objective information on the personality profiles of students and other individuals, to offer effective, meaningful career counselling and advice to choose suitable career paths.
 
-## Need for using MCMF Indian language editions
+### Need for using MCMF Indian language editions
 •	Language options capture a test taker’s career interests and personality variables more accurately for those who are not adequately exposed to the English language.
 •	Students from schools with vernacular medium of instruction can receive the right career guidance during important academic milestones.
 •	Government-supported skill development and education programs can expand their reach into the child and youth population that lives beyond urban areas.
