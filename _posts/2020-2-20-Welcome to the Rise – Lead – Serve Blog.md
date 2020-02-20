@@ -4,7 +4,7 @@ title: Welcome to the Rise – Lead – Serve Blog!!!
 tags: [about]
 category: Introduction
 ---
-## Welcome to the Rise – Lead – Serve Blog!!!
+
 
 This blog is dedicated to all the young individuals out there who are trying to find a foothold in the world and figure out the all-important question of CAREER!
  ![career_question](../images/career_question.png)
