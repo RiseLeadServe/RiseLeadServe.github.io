@@ -7,7 +7,7 @@ category: [career guidance]
 
 
 
-# IIT Madras offering Career Guidance to Government school students with the CSR Support from NSFDC.
+## IIT Madras offering Career Guidance to Government school students with the CSR Support from NSFDC.
 
 Most students in India enter their undergraduate studies without really have chosen their courses themselves. As a result, at the end of graduation, they end up not knowing what to do and their employability is becoming a key challenge.  Instead of pursuing a career of their choice and interest, a student’s aspiration, very often, is fuelled by the pressure to meet parental and societal expectations. Career guidance, therefore, it is absolutely necessary in India because students need to be mentally prepared to face the world after graduation. We want to work together to create youngsters who have a positive outlook towards life, while also being responsible and accountable for themselves. As part of this career guidance initiative, we want to request parents to work with the schools closely to understand the student’s interests and capabilities.
 
