@@ -3,8 +3,7 @@ layout: post
 title: Career_guidance in UP and West Bengal Schools
 tags: [career_guidance, UttarPradesh, WestBengal, NSFDC, mcmf]
 category: career_guidance
-
-
+date: 2020-02-20 15:00:45
 ---
 
 ### IIT Madras offering Career Guidance to school students in UP and West Bengal with the CSR Support from NSFDC.
