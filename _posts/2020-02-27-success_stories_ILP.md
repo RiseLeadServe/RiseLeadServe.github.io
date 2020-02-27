@@ -9,7 +9,7 @@ date: 2020-02-27 06:50:45
 This writeup was received from Mr  Rangarajan Ganesan who work at IIT Madras. Mr Rangarajan  is also associated with 
 Indian Literacy Project, a group doing excellent socially relevant work in the area of rural education and literacy. 
 Here are two remarkable  instances of individuals who have achieved success in life with assistance 
-from ILP.www.ilpnet.org/
+from ILP. www.ilpnet.org/
 
 
 Tamilarasan is from first batch scholarship students supported by ILP Chennai chapter. He was identified from the brick kiln when he was engaged with labor work of loading the bricks. He expressed interest to study and thus he started his journey into college education. He joined his B.Sc. Chemistry in the year 2014 and he was constantly mentored during his college days.  He completed his graduation (2014-17) and came out as class topper with a distinction. That was a proud moment for his parents and our organization.
