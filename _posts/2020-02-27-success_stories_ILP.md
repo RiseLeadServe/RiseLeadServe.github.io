@@ -16,10 +16,9 @@ Tamilarasan is from first batch scholarship students supported by ILP Chennai ch
 
 ![tamil_img](/images/tamil.jpg)
 
-
 Further he got his admission in Presidency college for his post-graduation. He was also mentored by Ms. Shobana, Chemistry professor with SIET on what are all the options available after his post-graduation. He completed his PG course (2017-19) with 82% overall marks. He is at present working as Technical Analyst in Pondicherry and working hard towards getting a Government job. He is also interested in pursuing his National Eligibility Test (NET) for becoming a teaching faculty in higher education and also doing Ph.D. 
 
-<br></br>
+
 Saraswathi our ILP staff comes from a humble background. She completed her Engineering (2010-14)and worked in a Software Company. Her heart was more towards social service, teaching and working with children and hence decided to join a NGO. She worked with another NGO for short duration before joining our organization. 
 
 ![saraswathi_img](/images/saraswathi.png)
