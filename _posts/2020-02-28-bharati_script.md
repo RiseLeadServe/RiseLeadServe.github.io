@@ -58,6 +58,7 @@ Thanks to the easy modularity of Bharati characters, it is possible to create a 
 We designed a scrabble-like word building board game called “Word Warz.” 
 
 “Bharati Jumble Tumble” is a mobile game for Android phones. In this game, which belongs to the class of “sliding piece” games,  one has to move blocks around and form words.
+
 ![bharati](/images/jumble.jpg)
 
 We are also developing a 3D Bharati game in Virtual Reality.
