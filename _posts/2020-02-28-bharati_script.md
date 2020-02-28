@@ -18,7 +18,8 @@ The use of a common script for many languages in a given region is not a new ide
 There are 11 major scripts that are currently being used in India:
 
 Devnagari, Bengali, Gurmukhi, Gujarati, Oriya, Telugu, Kannada, Tamil, English and Urdu.  The first 9 among these -  Devnagarai, Bengali, Gurmukhi, Gujarati, Oriya, Telugu, Kannada, Tamil, - share a common phonetic structure. Exploiting this shared structure, we designed Bharati so that the visual form of the characters has a strong correlation to their phonetic identity. Because of this strong coupling between sound and form, it is becomes easy to remember the shape of the character, if you know the sound. 
-![bharati](/images/bharati.png)
+![bharati](/images/bharati.png = 70x)
+
 ### Use cases:
 1. A good number of next generation kids know how to speak in this mother tongues, but often do not have reading/writing skills in their mother tongues. Bharati script is a good solution for such children.
 2. A similar needs as above is seen among the NRI children. A good number of NRI children do not have the ability to read/write in this mother tongues due to lack of formal instruction in their languages. Bharati offers a simple solution to such children.
