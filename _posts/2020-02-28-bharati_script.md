@@ -1,5 +1,10 @@
-## Bharati Script: A unifying script for Indian languages
-
+---
+title: Bharati Script: A unifying script for Indian languages
+layout: post
+tags: [Bharati_script]
+category: Bharati_script
+date: 2020-02-28 06:30:00
+---
 V. Srinivasa Chakravarthy <br>
 Professor, Department of Biotechnology,<br>
 IIT Madras.
