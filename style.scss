@@ -288,6 +288,7 @@ footer {
   width: 10%;
   padding-bottom: 5px;
   padding-right: 2px;
+  padding-left: 2px;
 }
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
