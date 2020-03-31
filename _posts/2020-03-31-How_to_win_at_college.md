@@ -12,7 +12,7 @@ date: 2020-03-31 14:50:45
 <i>Written by,<br></i>
 <i>Haindavi Kandarpa <br></i>
 <i>BTech, II year, Mechanical Engineering <br></i>
-<i>[me18b053@smail.iitm.ac.in](me18b053@smail.iitm.ac.in)</i>
+<i>[me18b053@smail.iitm.ac.in](mailto:me18b053@smail.iitm.ac.in)</i>
 
 
 ##### CH 1: Don’t do all of your reading
