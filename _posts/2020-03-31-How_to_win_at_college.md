@@ -12,7 +12,8 @@ date: 2020-03-31 14:50:45
 Written by,<br>
 Haindavi Kandarpa <br>
 BTech, II year, Mechanical Engineering <br>
-[me18b053@smail.iitm.ac.in](me18b053@smail.iitm.ac.in) </i>
+[me18b053@smail.iitm.ac.in](me18b053@smail.iitm.ac.in)
+</i>
 
 ##### CH 1: Don’t do all of your reading
 Skim the chapter ahead of class but put the bulk of your energy into concentrating in class.
